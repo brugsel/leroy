@@ -1,3 +1,5 @@
+Landingspage for the awesome band Leroy and the flying peanuts! (http://www.leroyandtheflyingpeanuts.nl)
+
 Highlights by HTML5 UP
 html5up.net | @ajlkn
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
