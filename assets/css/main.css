@@ -22,9 +22,10 @@
   position: fixed;
   top: 10px;
   right: 10px;
-  background-image: url("/images/logo01.png");
+  background-image: url("/images/logo01.black.jpg");
   width: 60px;
   height: 60px;
+	background-size: cover;
 }
 
 	article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
@@ -2563,7 +2564,7 @@
 		input[type="button"].special,
 		button.special,
 		.button.special {
-			background-color: #4EACE8;
+			background-color: black;
 			border: 0;
 			box-shadow: none;
 			color: #ffffff !important;
@@ -2574,7 +2575,7 @@
 			input[type="button"].special:hover,
 			button.special:hover,
 			.button.special:hover {
-				background-color: #81E0FF;
+				background-color: black;
 			}
 
 			input[type="submit"].special:active,
@@ -2582,7 +2583,7 @@
 			input[type="button"].special:active,
 			button.special:active,
 			.button.special:active {
-				background-color: #68C7FF;
+				background-color: black;
 			}
 
 			input[type="submit"].special.icon:before,
