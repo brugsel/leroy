@@ -1,4 +1,4 @@
-Landingspage for the awesome band Leroy and the flying peanuts! (http://www.leroyandtheflyingpeanuts.nl)
+Landingspage for the awesome band Leroy and the flying peanuts! (httpe://www.leroyandtheflyingpeanuts.nl)
 
 Highlights by HTML5 UP
 html5up.net | @ajlkn
